@@ -1,20 +1,25 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
+title:  "Code de la route 2020 - Hors Ligne"
+subtitle: "Apprendre le code de la route n'importe ou, n'importe quand"
+author: "ItechApps"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+date:   2020-04-13 13:12:00
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Description :
+L'application Code de la route 2020 offline regroupe toutes les fonctionnalités pour apprendre, s'entraîner, suivre vos résultats d'examen et réussir le code de la route en conditions réelles.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+L'application Code de la route 2020 offline est accessible à tous, a n'importe quelle moment et n'importe quelle endroits.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Vous n'avez pas besoin de connection internet pour réviser et passer les examens de cours de de code de la route.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+Ni inscription, Ni abonnement sont requis pour utiliser notre application Code de la route offline France 2020.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Avec l'application Code de la route 2019 Hors-ligne totalement GRATUITE:
+
+- Apprenez toutes les notions du Code de la Route avec nos intéressantes cours.
+- Entraînez-vous sur 24 séries d’entraînement avec les explications associées.
+- Suivez votre évolution avec la visualisation de résultats des examens
+
+L'application Code de la route 2020 Hors-ligne est votre meilleure support pour assurer le jour de l'examen.

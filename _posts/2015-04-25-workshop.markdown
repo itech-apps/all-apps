@@ -7,7 +7,7 @@ image: "img/f.jpg"
 date:   2020-04-13 12:00
 ---
 
-### Description?
+### Description:
 Vous pouvez consulter les programmes et de regarder toutes les chaînes de la TNT françaises.
 Un écran qui liste les chaînes avec les programmes en cours de diffusion. Il suffit de toucher une chaîne pour afficher les programmes et de regarder le direct.
 
