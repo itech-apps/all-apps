@@ -16,7 +16,6 @@ WeekEnd F⚽⚽t TV fonctionne en mode connecté et aussi en mode déconnecté.
 
 Vous pouvez inscrire une alerte pour votre match favoris et vous aurais une notification avant 15 minutes de début de match.
 
-Note: La liste des chaines supporté compatible avec WeekEnd F⚽⚽t TV est une liste du
-chaines de sport FRANÇAISE.
+Note: La liste des chaines supporté compatible avec WeekEnd F⚽⚽t TV est une liste du chaines de sport FRANÇAISE.
 
-Lien de télechargment de l'application a partir de Play Store : <a href="https://play.google.com/store/apps/details?id=com.itechapp.footprogram" title="">WeekEnd Foot TV</a>
+Lien de télechargment de l'application a partir de Play Store : <a href="https://play.google.com/store/apps/details?id=com.itechapp.footprogram" title="WeekEnd Foot TV" style="color:bleu">WeekEnd Foot TV</a>

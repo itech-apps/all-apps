@@ -17,4 +17,4 @@ Les chaînes de TNT France sont accessibles de n'importe ou en France, ni inscri
 
 La gratuité et la simplicité est le slogan de notre application TNT France.
 
-Lien de télechargment de l'application a partir de Play Store : <a href="https://play.google.com/store/apps/details?id=com.itechapps.tnt.france" title="TNT France Direct - Guide Programme TV">TNT France Direct - Guide Programme TV</a>
+Lien de télechargment de l'application a partir de Play Store : <a href="https://play.google.com/store/apps/details?id=com.itechapps.tnt.france" title="TNT France Direct - Guide Programme TV" style="color:bleu">TNT France Direct - Guide Programme TV</a>
